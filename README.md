@@ -1,4 +1,3 @@
-# Nya!
 your local:
   - linux user
   - python & rust coder
@@ -13,3 +12,4 @@ Projects i work on/contribute to:
   - [Project Shards](git.getcryst.al/project-shards)
     - [shards-installer](git.getcryst.al/project-shards/shards-installer)
     - [shards-updater](https://git.getcryst.al/project-shards/shards-updater)
+  - [Vanilla OS](https://vanillaos.org/)
