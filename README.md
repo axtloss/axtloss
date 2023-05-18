@@ -1,15 +1,15 @@
-your local:
-  - linux user
-  - python & rust coder
-  - gnome enjoyer
-  - neco arc & xenia enjoyer
----
+# axtlos / xenia
 
-Projects i work on/contribute to:
-  - [crystal linux](getcryst.al)
-    - [jade gui](git.getcryst.al/crystal-linux/software/jade-gui)
-    - [jade](git.getcryst.al/crystal-linux/software/jade)
-  - [Project Shards](git.getcryst.al/project-shards)
-    - [shards-installer](git.getcryst.al/project-shards/shards-installer)
-    - [shards-updater](https://git.getcryst.al/project-shards/shards-updater)
+webbed site: https://axtlos.neocities.org
+
+
+Where to find or contact me:
+  - Fedi: [@axtlos@snowdin.town](https://snowdin.town/axtlos)
+  - Twitter: [@axtlos3](https://twitter.com/axtlos3)
+  - \[matrix]: @xenia:psps.cat
+
+Projects:
+  - [Project Shards](https://github.com/project-shards)
   - [Vanilla OS](https://vanillaos.org/)
+  - [Linux Immutability Tools](https://github.com/linux-immutability-tools)
+  - [crystal linux](https://getcryst.al)
