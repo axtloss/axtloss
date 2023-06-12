@@ -1,7 +1,5 @@
 # axtlos
 
-webbed site: https://axtlos.neocities.org
-
 Projects:
   - [Project Shards](https://github.com/project-shards)
   - [Vanilla OS](https://vanillaos.org/)
