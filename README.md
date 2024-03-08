@@ -3,17 +3,15 @@
 Programming Languages:
 - (modern) Fortran
 - Golang
+- C
 - Python
-- Rust
 
 Operating System(s):
-- Arch Linux
+- NixOS
 - FreeBSD
 
 Editors/IDEs:
-- Spacemacs
-- Emacs (vanilla)
-- Jetbrains Goland
+- Emacs
 
 Projects:
   - [Vanilla OS](https://vanillaos.org/)
