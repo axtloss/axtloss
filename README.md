@@ -1,7 +1,5 @@
 # axtlos
 
-Make sure to also check out Codeberg: codeberg.org/axtlos
-
 Programming Languages:
 - (modern) Fortran
 - Golang
