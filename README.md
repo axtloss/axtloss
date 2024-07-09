@@ -1,5 +1,7 @@
 # axtlos
 
+**Note:** The repositories in this account are only used as mirrors. All my personal projects will be managed on codeberg.org, any issues or pull requests should be opened on the respective codeberg repository.
+
 Programming Languages:
 - (modern) Fortran
 - Golang
