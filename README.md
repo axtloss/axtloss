@@ -12,6 +12,7 @@ Operating System(s):
 - FreeBSD
 
 Editors/IDEs:
+- Kate
 - Emacs
 
 Projects:
